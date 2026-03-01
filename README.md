@@ -14,6 +14,8 @@ It allows users to interactively select and run different search algorithms whil
 * Depth-Limited Search (DLS)
 * Iterative Deepening DFS (IDDFS)
 * Bidirectional Search
+* Greed Breadth-First Search (Manhattan/Euclidean)
+* A* Search (Manhattan/Euclidean)
 
 ## 🎮 Features
 * Interactive grid visualization
